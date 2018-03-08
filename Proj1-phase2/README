@@ -1,4 +1,4 @@
-# Hogwarts Student Database
+#Hogwarts Student Database
 
 Using the "test.json" file, which comprised of a list of Student attributes: Date of Births, Detentions, 
 HasHogsmeadePermissionForm, House, Name, Subjects, and Year level, it would be inputed and read into the program. 
